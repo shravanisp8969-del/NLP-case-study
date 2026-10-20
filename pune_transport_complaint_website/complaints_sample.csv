@@ -1,0 +1,1001 @@
+complaint,category,sentiment,priority
+Passengers were packed tightly on the bus near Nigdi.,Overcrowding,Negative,Medium
+I waited for 20 minutes for the bus near Bhosari; the service is frustrating.,Bus Delay,Negative,Medium
+Please improve the bus schedule and display accurate arrival times at Camp.,Bus Delay,Negative,Medium
+Please provide timely updates about route changes near Pune Station.,Service Disruption,Negative,High
+A major route disruption near Pune Station left many passengers stranded.,Service Disruption,Negative,Medium
+There was spilled liquid on the bus floor near Pune Station.,Cleanliness,Negative,Low
+My digital ticket payment failed but money was deducted near Nigdi.,Ticketing Issue,Negative,Medium
+Please provide more buses during peak hours around Hadapsar.,Overcrowding,Negative,Medium
+Thank you to the bus staff for helping me with directions at Bhosari.,Other,Negative,Low
+Please provide better seating and shade at the bus stop near Baner.,Other,Negative,Low
+I want to report unprofessional behaviour by bus staff near Pimpri.,Staff Behaviour,Negative,Medium
+The bus was dirty and had litter on the floor near Warje. Please take action.,Cleanliness,Neutral,Low
+My bus stop at Kharadi was full of garbage and not cleaned.,Cleanliness,Negative,Low
+The bus ticket was issued with an incorrect destination from Hadapsar.,Ticketing Issue,Neutral,Low
+There were too many passengers on the bus from Nigdi; it felt unsafe.,Overcrowding,Negative,Medium
+The waiting area at Nigdi needs regular cleaning.,Cleanliness,Neutral,Low
+Please provide better seating and shade at the bus stop near Chinchwad.,Other,Positive,Low
+My route information was not clear for passengers at Katraj.,Other,Neutral,Low
+Crowding at Kondhwa made it difficult for elderly passengers to board.,Overcrowding,Negative,Medium
+My digital ticket payment failed but money was deducted near Deccan.,Ticketing Issue,Neutral,Low
+The conductor charged the wrong fare for my trip from Pune Station.,Ticketing Issue,Negative,Medium
+Staff at Kothrud behaved disrespectfully when I asked for help.,Staff Behaviour,Negative,Medium
+I appreciate the helpful information provided by staff at Yerawada.,Other,Neutral,Low
+The ticket counter at Deccan was closed during operating hours.,Ticketing Issue,Negative,Medium
+The driver and conductor were helpful and polite at Akurdi.,Staff Behaviour,Negative,Low
+The driver followed safety rules and drove carefully near Chinchwad.,Safety Issue,Neutral,Medium
+A passenger was harassed on the bus near Swargate; please investigate urgently.,Safety Issue,Neutral,Medium
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Neutral,Low
+The driver was speeding dangerously near Katraj.,Safety Issue,Neutral,Medium
+I saw an accident near Hinjawadi involving a public transport bus.,Safety Issue,Negative,High
+There was heavy crowding at the Nigdi bus stop this morning.,Overcrowding,Neutral,Low
+Please make ticket prices and digital payment instructions clearer at Pimpri.,Ticketing Issue,Negative,Low
+Please make ticket prices and digital payment instructions clearer at Kharadi.,Ticketing Issue,Negative,Low
+"The bus did not arrive on time at Bhosari, causing passengers to miss appointments.",Bus Delay,Neutral,Low
+A passenger was harassed on the bus near Hadapsar; please investigate urgently.,Safety Issue,Negative,High
+My information board at Pune Station is confusing and needs an update.,Other,Neutral,Low
+Passengers were packed tightly on the bus near Baner.,Overcrowding,Neutral,Low
+Please consider adding a timetable display at Warje.,Other,Negative,Low
+Please provide better seating and shade at the bus stop near Pimpri.,Other,Neutral,Low
+The conductor charged the wrong fare for my trip from Pimpri. Please take action.,Ticketing Issue,Negative,Medium
+"The bus did not arrive on time at Camp, causing passengers to miss appointments.",Bus Delay,Neutral,Low
+"The bus did not arrive on time at Hadapsar, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+The driver and conductor were helpful and polite at Yerawada.,Staff Behaviour,Neutral,Low
+Please improve the bus schedule and display accurate arrival times at Chinchwad. Please take action.,Bus Delay,Neutral,Low
+Please provide better seating and shade at the bus stop near Kondhwa.,Other,Neutral,Low
+The route information was not clear for passengers at Bhosari.,Other,Neutral,Low
+Please provide better seating and shade at the bus stop near Wakad.,Other,Neutral,Low
+Please make ticket prices and digital payment instructions clearer at Bhosari.,Ticketing Issue,Neutral,Low
+Several scheduled buses were cancelled from Nigdi this morning.,Service Disruption,Neutral,Medium
+The bus and seats were clean during my journey from Akurdi.,Cleanliness,Negative,Low
+Please make ticket prices and digital payment instructions clearer at Katraj.,Ticketing Issue,Negative,Medium
+Please provide more buses during peak hours around Kondhwa.,Overcrowding,Negative,Medium
+The ticket counter at Kondhwa was closed during operating hours.,Ticketing Issue,Negative,Low
+A passenger was harassed on the bus near Kharadi; please investigate urgently.,Safety Issue,Negative,High
+The information board at Bhosari is confusing and needs an update. Please take action.,Other,Positive,Low
+The seats were stained and the bus smelled bad on the route from Katraj.,Cleanliness,Neutral,Low
+There is a service interruption on the bus route near Yerawada.,Service Disruption,Neutral,Medium
+There were too many passengers on the bus from Akurdi; it felt unsafe. Please take action.,Overcrowding,Negative,Medium
+Passengers were packed tightly on the bus near Aundh. Please take action.,Overcrowding,Negative,Medium
+There was heavy crowding at the Hadapsar bus stop this morning.,Overcrowding,Neutral,Low
+The driver and conductor were helpful and polite at Pimpri. Please take action.,Staff Behaviour,Negative,Medium
+Please train bus staff to communicate politely with passengers.,Staff Behaviour,Neutral,Low
+All buses on the route near Pimpri were suddenly cancelled without notice.,Service Disruption,Neutral,Medium
+The conductor charged the wrong fare for my trip from Camp.,Ticketing Issue,Negative,Low
+Passengers were packed tightly on the bus near Aundh. Please take action.,Overcrowding,Negative,Medium
+There was heavy crowding at the Kharadi bus stop this morning.,Overcrowding,Negative,Medium
+My ticket counter at Swargate was closed during operating hours.,Ticketing Issue,Negative,Medium
+My driver followed safety rules and drove carefully near Camp.,Safety Issue,Negative,High
+I want to report unprofessional behaviour by bus staff near Camp.,Staff Behaviour,Negative,Low
+The bus timing information at Katraj is not updated and creates confusion. Please take action.,Bus Delay,Negative,Medium
+Staff at Kharadi behaved disrespectfully when I asked for help.,Staff Behaviour,Neutral,Low
+The route information was not clear for passengers at Hadapsar.,Other,Neutral,Low
+The bus was full at Camp and several passengers could not board.,Overcrowding,Negative,Medium
+Crowding at Katraj made it difficult for elderly passengers to board.,Overcrowding,Neutral,Low
+My waiting area at Khadki needs regular cleaning.,Cleanliness,Negative,Low
+I saw an accident near Baner involving a public transport bus.,Safety Issue,Negative,High
+Please provide better seating and shade at the bus stop near Pimpri.,Other,Positive,Low
+The conductor charged the wrong fare for my trip from Bhosari.,Ticketing Issue,Negative,Medium
+The bus was full at Baner and several passengers could not board.,Overcrowding,Negative,Medium
+The bus was 15 minutes late at Swargate and nobody informed passengers.,Bus Delay,Negative,Medium
+The ticket machine was not working on the bus near Wakad.,Ticketing Issue,Negative,Low
+I have a general suggestion to improve passenger information at Bhosari.,Other,Positive,Low
+My digital ticket payment failed but money was deducted near Yerawada.,Ticketing Issue,Neutral,Low
+Please consider adding a timetable display at Pune Station.,Other,Neutral,Low
+The route was diverted near Hadapsar but no announcement was made.,Service Disruption,Negative,High
+Passengers were packed tightly on the bus near Warje.,Overcrowding,Neutral,Low
+The bus was 15 minutes late at Kharadi and nobody informed passengers.,Bus Delay,Negative,Medium
+I waited for 40 minutes for the bus near Akurdi; the service is frustrating.,Bus Delay,Negative,Medium
+There is a service interruption on the bus route near Warje.,Service Disruption,Neutral,Medium
+My bus timing information at Pimpri is not updated and creates confusion.,Bus Delay,Negative,Medium
+The route was diverted near Akurdi but no announcement was made.,Service Disruption,Negative,High
+There was a serious safety risk at the bus stop near Kondhwa. Please take action.,Safety Issue,Negative,High
+The route information was not clear for passengers at Bhosari.,Other,Positive,Low
+The bus was overcrowded near Akurdi and people could barely stand.,Overcrowding,Negative,Medium
+The information board at Camp is confusing and needs an update.,Other,Positive,Low
+Dust and waste were visible inside the bus at Wakad. Please take action.,Cleanliness,Negative,Low
+Please provide more buses during peak hours around Wakad.,Overcrowding,Neutral,Low
+The bus was dirty and had litter on the floor near Deccan.,Cleanliness,Negative,Low
+Please make ticket prices and digital payment instructions clearer at Katraj.,Ticketing Issue,Negative,Medium
+Please provide better seating and shade at the bus stop near Kharadi.,Other,Negative,Low
+The bus and seats were clean during my journey from Hinjawadi.,Cleanliness,Negative,Low
+I waited for 15 minutes for the bus near Hinjawadi; the service is frustrating.,Bus Delay,Negative,Medium
+Please provide timely updates about route changes near Katraj.,Service Disruption,Negative,High
+Passengers were packed tightly on the bus near Shivajinagar.,Overcrowding,Neutral,Low
+The conductor charged the wrong fare for my trip from Kothrud. Please take action.,Ticketing Issue,Negative,Medium
+The ticket counter at Pune Station was closed during operating hours.,Ticketing Issue,Neutral,Low
+Bus arrival at Baner was delayed by 45 minutes today.,Bus Delay,Negative,Medium
+There was spilled liquid on the bus floor near Kothrud.,Cleanliness,Negative,Low
+Dust and waste were visible inside the bus at Yerawada.,Cleanliness,Negative,Low
+I have a general suggestion to improve passenger information at Pimpri.,Other,Positive,Low
+The driver followed safety rules and drove carefully near Hadapsar.,Safety Issue,Negative,High
+A major route disruption near Katraj left many passengers stranded.,Service Disruption,Negative,High
+I want to report unprofessional behaviour by bus staff near Chinchwad.,Staff Behaviour,Negative,Medium
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Neutral,Low
+The information board at Katraj is confusing and needs an update.,Other,Neutral,Low
+Please provide more buses during peak hours around Pimpri.,Overcrowding,Negative,Medium
+The information board at Camp is confusing and needs an update.,Other,Negative,Low
+There was a serious safety risk at the bus stop near Katraj.,Safety Issue,Negative,High
+The waiting area at Aundh needs regular cleaning.,Cleanliness,Neutral,Low
+Thank you to the bus staff for helping me with directions at Deccan.,Other,Positive,Low
+Thank you to the bus staff for helping me with directions at Camp.,Other,Neutral,Low
+There was a serious safety risk at the bus stop near Kondhwa.,Safety Issue,Negative,High
+Please consider adding a timetable display at Wakad.,Other,Negative,Low
+My bus stop at Hinjawadi was full of garbage and not cleaned.,Cleanliness,Negative,Low
+The ticket machine was not working on the bus near Kondhwa.,Ticketing Issue,Negative,Low
+The bus was dirty and had litter on the floor near Hadapsar.,Cleanliness,Neutral,Low
+The route was diverted near Wakad but no announcement was made.,Service Disruption,Negative,High
+The bus and seats were clean during my journey from Deccan.,Cleanliness,Negative,Low
+My driver was driving unsafely near Bhosari and nearly caused an accident.,Safety Issue,Negative,High
+My bus was 50 minutes late at Deccan and nobody informed passengers.,Bus Delay,Neutral,Low
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Medium
+Passengers were packed tightly on the bus near Hinjawadi.,Overcrowding,Negative,Medium
+Passengers have been waiting at Bhosari because the bus is running late.,Bus Delay,Negative,Medium
+There was spilled liquid on the bus floor near Hinjawadi.,Cleanliness,Negative,Low
+A passenger was harassed on the bus near Warje; please investigate urgently.,Safety Issue,Negative,High
+I want to report unprofessional behaviour by bus staff near Hadapsar.,Staff Behaviour,Negative,Low
+Crowding at Katraj made it difficult for elderly passengers to board.,Overcrowding,Negative,Medium
+Several scheduled buses were cancelled from Bhosari this morning.,Service Disruption,Neutral,Medium
+The conductor spoke rudely to passengers near Wakad.,Staff Behaviour,Neutral,Low
+My digital ticket payment failed but money was deducted near Yerawada.,Ticketing Issue,Neutral,Low
+A passenger was harassed on the bus near Camp; please investigate urgently.,Safety Issue,Negative,High
+The driver was speeding dangerously near Yerawada.,Safety Issue,Negative,High
+Please improve the bus schedule and display accurate arrival times at Akurdi. Please take action.,Bus Delay,Negative,Medium
+Please provide better seating and shade at the bus stop near Warje.,Other,Negative,Low
+Several scheduled buses were cancelled from Deccan this morning.,Service Disruption,Neutral,Medium
+The conductor shouted at an elderly passenger near Khadki.,Staff Behaviour,Negative,Low
+I have a general suggestion to improve passenger information at Kharadi.,Other,Positive,Low
+The driver was driving unsafely near Swargate and nearly caused an accident.,Safety Issue,Negative,High
+There was heavy crowding at the Camp bus stop this morning.,Overcrowding,Neutral,Low
+The bus was 15 minutes late at Nigdi and nobody informed passengers.,Bus Delay,Negative,Medium
+The information board at Deccan is confusing and needs an update.,Other,Positive,Low
+A major route disruption near Akurdi left many passengers stranded.,Service Disruption,Negative,High
+There was heavy crowding at the Kharadi bus stop this morning.,Overcrowding,Negative,Medium
+I have a general suggestion to improve passenger information at Baner.,Other,Positive,Low
+There was spilled liquid on the bus floor near Kharadi.,Cleanliness,Neutral,Low
+The bus was dirty and had litter on the floor near Kothrud.,Cleanliness,Negative,Low
+My driver was speeding dangerously near Akurdi.,Safety Issue,Negative,High
+My driver was speeding dangerously near Pune Station.,Safety Issue,Negative,High
+The ticket counter at Kharadi was closed during operating hours.,Ticketing Issue,Negative,Low
+"The bus did not arrive on time at Hinjawadi, causing passengers to miss appointments.",Bus Delay,Neutral,Low
+There was a serious safety risk at the bus stop near Shivajinagar.,Safety Issue,Negative,High
+Staff at Wakad behaved disrespectfully when I asked for help.,Staff Behaviour,Negative,Medium
+The conductor shouted at an elderly passenger near Akurdi.,Staff Behaviour,Negative,Low
+Dust and waste were visible inside the bus at Kharadi.,Cleanliness,Neutral,Low
+The driver and conductor were helpful and polite at Kharadi.,Staff Behaviour,Negative,Medium
+A staff member ignored passengers asking about the route at Yerawada.,Staff Behaviour,Negative,Medium
+The driver followed safety rules and drove carefully near Swargate.,Safety Issue,Negative,High
+My driver followed safety rules and drove carefully near Pimpri.,Safety Issue,Negative,High
+Please improve the bus schedule and display accurate arrival times at Shivajinagar.,Bus Delay,Negative,Medium
+The bus ticket was issued with an incorrect destination from Bhosari.,Ticketing Issue,Negative,Medium
+The route was diverted near Chinchwad but no announcement was made.,Service Disruption,Neutral,Medium
+The bus stop at Yerawada was full of garbage and not cleaned. Please take action.,Cleanliness,Negative,Low
+I want to report unprofessional behaviour by bus staff near Hadapsar.,Staff Behaviour,Neutral,Low
+Bus service resumed after a short disruption near Bhosari.,Service Disruption,Negative,Medium
+Bus service resumed after a short disruption near Shivajinagar.,Service Disruption,Neutral,Medium
+The seats were stained and the bus smelled bad on the route from Bhosari.,Cleanliness,Neutral,Low
+Thank you to the bus staff for helping me with directions at Akurdi.,Other,Negative,Low
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Neutral,Low
+All buses on the route near Pune Station were suddenly cancelled without notice.,Service Disruption,Negative,High
+The conductor shouted at an elderly passenger near Wakad.,Staff Behaviour,Neutral,Low
+All buses on the route near Pune Station were suddenly cancelled without notice. Please take action.,Service Disruption,Negative,High
+A passenger was harassed on the bus near Khadki; please investigate urgently.,Safety Issue,Neutral,Medium
+The waiting area at Baner needs regular cleaning.,Cleanliness,Negative,Low
+The driver was speeding dangerously near Bhosari.,Safety Issue,Neutral,Medium
+The conductor shouted at an elderly passenger near Khadki.,Staff Behaviour,Negative,Low
+Staff at Pune Station behaved disrespectfully when I asked for help.,Staff Behaviour,Negative,Low
+Several scheduled buses were cancelled from Kothrud this morning.,Service Disruption,Negative,Medium
+There was a serious safety risk at the bus stop near Kothrud.,Safety Issue,Negative,High
+Staff at Hinjawadi behaved disrespectfully when I asked for help.,Staff Behaviour,Neutral,Low
+Please provide timely updates about route changes near Baner.,Service Disruption,Negative,High
+There was spilled liquid on the bus floor near Pimpri.,Cleanliness,Neutral,Low
+The waiting area at Warje needs regular cleaning.,Cleanliness,Negative,Low
+Passengers have been waiting at Nigdi because the bus is running late.,Bus Delay,Negative,Medium
+The seats were stained and the bus smelled bad on the route from Swargate.,Cleanliness,Negative,Low
+There was a serious safety risk at the bus stop near Warje. Please take action.,Safety Issue,Negative,High
+The bus from Hinjawadi had standing passengers throughout the journey.,Overcrowding,Neutral,Low
+The conductor shouted at an elderly passenger near Baner. Please take action.,Staff Behaviour,Negative,Low
+Please provide timely updates about route changes near Warje.,Service Disruption,Neutral,Medium
+The route was diverted near Pune Station but no announcement was made.,Service Disruption,Neutral,Medium
+There was heavy crowding at the Bhosari bus stop this morning.,Overcrowding,Negative,Medium
+Several scheduled buses were cancelled from Kharadi this morning.,Service Disruption,Negative,Medium
+I want to report unprofessional behaviour by bus staff near Baner. Please take action.,Staff Behaviour,Neutral,Low
+The ticket machine was not working on the bus near Baner.,Ticketing Issue,Neutral,Low
+Please consider adding a timetable display at Kharadi.,Other,Negative,Low
+The driver was impolite and refused to answer a question at Wakad.,Staff Behaviour,Negative,Medium
+The bus ticket was issued with an incorrect destination from Chinchwad.,Ticketing Issue,Negative,Medium
+There were too many passengers on the bus from Camp; it felt unsafe.,Overcrowding,Negative,Medium
+The bus brakes seemed to fail and passengers were frightened near Shivajinagar.,Safety Issue,Negative,High
+Staff at Pune Station behaved disrespectfully when I asked for help.,Staff Behaviour,Neutral,Low
+The driver followed safety rules and drove carefully near Kothrud.,Safety Issue,Neutral,Medium
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Low
+The conductor shouted at an elderly passenger near Camp.,Staff Behaviour,Neutral,Low
+There were too many passengers on the bus from Pimpri; it felt unsafe.,Overcrowding,Neutral,Low
+Bus arrival at Bhosari was delayed by 50 minutes today.,Bus Delay,Negative,Medium
+My route information was not clear for passengers at Nigdi.,Other,Neutral,Low
+Please provide more buses during peak hours around Kothrud.,Overcrowding,Negative,Medium
+All buses on the route near Aundh were suddenly cancelled without notice. Please take action.,Service Disruption,Negative,Medium
+I saw an accident near Bhosari involving a public transport bus.,Safety Issue,Negative,High
+There was heavy crowding at the Swargate bus stop this morning.,Overcrowding,Negative,Medium
+Thank you to the bus staff for helping me with directions at Nigdi.,Other,Neutral,Low
+The conductor charged the wrong fare for my trip from Katraj.,Ticketing Issue,Negative,Low
+I appreciate the helpful information provided by staff at Katraj.,Other,Negative,Low
+The bus stop at Katraj was full of garbage and not cleaned.,Cleanliness,Negative,Low
+My conductor gave me the correct ticket and explained the fare at Kharadi.,Ticketing Issue,Negative,Low
+I have a general suggestion to improve passenger information at Chinchwad.,Other,Negative,Low
+The conductor shouted at an elderly passenger near Kothrud.,Staff Behaviour,Neutral,Low
+The conductor spoke rudely to passengers near Shivajinagar.,Staff Behaviour,Negative,Low
+The bus reached Kharadi later than the timetable showed.,Bus Delay,Negative,Medium
+A passenger was harassed on the bus near Chinchwad; please investigate urgently.,Safety Issue,Negative,High
+The bus was dirty and had litter on the floor near Kothrud.,Cleanliness,Negative,Low
+The conductor charged the wrong fare for my trip from Pune Station.,Ticketing Issue,Negative,Low
+The bus stop at Pimpri was full of garbage and not cleaned.,Cleanliness,Negative,Low
+The bus was dirty and had litter on the floor near Kondhwa.,Cleanliness,Negative,Low
+My bus brakes seemed to fail and passengers were frightened near Hinjawadi.,Safety Issue,Negative,High
+The bus from Pune Station had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+The bus reached Baner later than the timetable showed.,Bus Delay,Neutral,Low
+All buses on the route near Akurdi were suddenly cancelled without notice.,Service Disruption,Negative,High
+Please improve cleaning of buses and bus stops around Kharadi. Please take action.,Cleanliness,Negative,Low
+My driver and conductor were helpful and polite at Camp.,Staff Behaviour,Neutral,Low
+Please make ticket prices and digital payment instructions clearer at Kothrud.,Ticketing Issue,Negative,Medium
+The driver was driving unsafely near Akurdi and nearly caused an accident.,Safety Issue,Negative,High
+The driver was speeding dangerously near Pune Station.,Safety Issue,Neutral,Medium
+I want to report unprofessional behaviour by bus staff near Chinchwad.,Staff Behaviour,Negative,Low
+The waiting area at Aundh needs regular cleaning. Please take action.,Cleanliness,Neutral,Low
+The bus timing information at Nigdi is not updated and creates confusion.,Bus Delay,Neutral,Low
+Please provide more buses during peak hours around Chinchwad. Please take action.,Overcrowding,Neutral,Low
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Neutral,Low
+The bus was overcrowded near Warje and people could barely stand.,Overcrowding,Neutral,Low
+The route was diverted near Swargate but no announcement was made.,Service Disruption,Negative,Medium
+Please improve cleaning of buses and bus stops around Chinchwad.,Cleanliness,Negative,Low
+The conductor gave me the correct ticket and explained the fare at Kharadi.,Ticketing Issue,Negative,Low
+The driver was driving unsafely near Pune Station and nearly caused an accident. Please take action.,Safety Issue,Neutral,Medium
+The driver was impolite and refused to answer a question at Yerawada.,Staff Behaviour,Negative,Medium
+I have a general suggestion to improve passenger information at Deccan.,Other,Neutral,Low
+I waited for 25 minutes for the bus near Bhosari; the service is frustrating.,Bus Delay,Neutral,Low
+The route was diverted near Wakad but no announcement was made.,Service Disruption,Negative,High
+Several scheduled buses were cancelled from Warje this morning.,Service Disruption,Neutral,Medium
+The bus was 35 minutes late at Warje and nobody informed passengers.,Bus Delay,Negative,Medium
+The waiting area at Pune Station needs regular cleaning.,Cleanliness,Negative,Low
+The ticket counter at Akurdi was closed during operating hours.,Ticketing Issue,Negative,Medium
+Please check the broken emergency exit on the bus at Khadki.,Safety Issue,Negative,High
+Please improve cleaning of buses and bus stops around Hadapsar.,Cleanliness,Neutral,Low
+The conductor shouted at an elderly passenger near Katraj.,Staff Behaviour,Neutral,Low
+Please provide timely updates about route changes near Swargate.,Service Disruption,Negative,Medium
+The bus was overcrowded near Pimpri and people could barely stand.,Overcrowding,Neutral,Low
+The conductor spoke rudely to passengers near Yerawada.,Staff Behaviour,Negative,Low
+The driver was driving unsafely near Baner and nearly caused an accident.,Safety Issue,Neutral,Medium
+All buses on the route near Bhosari were suddenly cancelled without notice.,Service Disruption,Neutral,Medium
+My bus from Khadki had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+My driver was speeding dangerously near Chinchwad.,Safety Issue,Neutral,Medium
+Bus arrival at Kothrud was delayed by 45 minutes today.,Bus Delay,Negative,Medium
+The waiting area at Aundh needs regular cleaning.,Cleanliness,Negative,Low
+Please consider adding a timetable display at Kothrud.,Other,Negative,Low
+The driver was speeding dangerously near Bhosari.,Safety Issue,Negative,High
+The driver followed safety rules and drove carefully near Camp.,Safety Issue,Negative,High
+The waiting area at Pune Station needs regular cleaning.,Cleanliness,Neutral,Low
+Bus service stopped for a long time near Kharadi and passengers received no update.,Service Disruption,Negative,High
+I want to report unprofessional behaviour by bus staff near Shivajinagar.,Staff Behaviour,Negative,Medium
+A major route disruption near Camp left many passengers stranded.,Service Disruption,Negative,Medium
+Passengers were packed tightly on the bus near Nigdi.,Overcrowding,Negative,Medium
+The driver was driving unsafely near Akurdi and nearly caused an accident.,Safety Issue,Negative,High
+There were too many passengers on the bus from Warje; it felt unsafe.,Overcrowding,Negative,Medium
+There were too many passengers on the bus from Baner; it felt unsafe.,Overcrowding,Neutral,Low
+The conductor shouted at an elderly passenger near Akurdi.,Staff Behaviour,Neutral,Low
+The ticket counter at Chinchwad was closed during operating hours.,Ticketing Issue,Neutral,Low
+Please consider adding a timetable display at Swargate.,Other,Neutral,Low
+My digital ticket payment failed but money was deducted near Kothrud.,Ticketing Issue,Neutral,Low
+The driver was impolite and refused to answer a question at Camp. Please take action.,Staff Behaviour,Negative,Low
+The ticket counter at Akurdi was closed during operating hours.,Ticketing Issue,Negative,Low
+The driver followed safety rules and drove carefully near Pune Station.,Safety Issue,Negative,High
+Please provide more buses during peak hours around Nigdi.,Overcrowding,Negative,Medium
+Bus service stopped for a long time near Yerawada and passengers received no update.,Service Disruption,Negative,High
+My driver was driving unsafely near Akurdi and nearly caused an accident.,Safety Issue,Negative,High
+The route information was not clear for passengers at Pune Station.,Other,Negative,Low
+The bus brakes seemed to fail and passengers were frightened near Nigdi.,Safety Issue,Negative,High
+My bus from Swargate had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+"My bus did not arrive on time at Khadki, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+"The bus did not arrive on time at Pune Station, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+Passengers have been waiting at Kothrud because the bus is running late.,Bus Delay,Neutral,Low
+A passenger was harassed on the bus near Baner; please investigate urgently.,Safety Issue,Negative,High
+A passenger was harassed on the bus near Kothrud; please investigate urgently. Please take action.,Safety Issue,Negative,High
+A major route disruption near Warje left many passengers stranded.,Service Disruption,Negative,Medium
+The information board at Akurdi is confusing and needs an update.,Other,Neutral,Low
+A passenger was harassed on the bus near Aundh; please investigate urgently.,Safety Issue,Negative,High
+"The bus did not arrive on time at Bhosari, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+There was spilled liquid on the bus floor near Shivajinagar.,Cleanliness,Negative,Low
+Staff at Nigdi behaved disrespectfully when I asked for help.,Staff Behaviour,Neutral,Low
+The ticket counter at Camp was closed during operating hours.,Ticketing Issue,Negative,Low
+My driver was impolite and refused to answer a question at Nigdi.,Staff Behaviour,Negative,Low
+My information board at Katraj is confusing and needs an update.,Other,Positive,Low
+Several scheduled buses were cancelled from Shivajinagar this morning.,Service Disruption,Negative,High
+I have a general suggestion to improve passenger information at Kothrud.,Other,Negative,Low
+Bus service resumed after a short disruption near Deccan.,Service Disruption,Negative,High
+Dust and waste were visible inside the bus at Camp.,Cleanliness,Negative,Low
+Please provide timely updates about route changes near Kharadi.,Service Disruption,Negative,High
+My waiting area at Swargate needs regular cleaning.,Cleanliness,Negative,Low
+The driver was driving unsafely near Warje and nearly caused an accident.,Safety Issue,Negative,High
+The conductor spoke rudely to passengers near Hinjawadi.,Staff Behaviour,Negative,Medium
+Please make ticket prices and digital payment instructions clearer at Shivajinagar.,Ticketing Issue,Neutral,Low
+A passenger was harassed on the bus near Swargate; please investigate urgently.,Safety Issue,Neutral,Medium
+I want to report unprofessional behaviour by bus staff near Hadapsar.,Staff Behaviour,Negative,Medium
+There is a service interruption on the bus route near Pimpri.,Service Disruption,Negative,Medium
+There was a serious safety risk at the bus stop near Yerawada.,Safety Issue,Neutral,Medium
+Bus arrival at Kharadi was delayed by 50 minutes today.,Bus Delay,Neutral,Low
+The conductor spoke rudely to passengers near Bhosari.,Staff Behaviour,Negative,Medium
+I have a general suggestion to improve passenger information at Yerawada. Please take action.,Other,Negative,Low
+A major route disruption near Swargate left many passengers stranded.,Service Disruption,Negative,Medium
+Dust and waste were visible inside the bus at Nigdi.,Cleanliness,Negative,Low
+Please check the broken emergency exit on the bus at Yerawada.,Safety Issue,Negative,High
+There was a serious safety risk at the bus stop near Baner. Please take action.,Safety Issue,Neutral,Medium
+Please improve the bus schedule and display accurate arrival times at Kharadi.,Bus Delay,Neutral,Low
+The driver was driving unsafely near Yerawada and nearly caused an accident.,Safety Issue,Negative,High
+The driver was impolite and refused to answer a question at Hinjawadi.,Staff Behaviour,Neutral,Low
+The bus from Swargate had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+Thank you to the bus staff for helping me with directions at Kharadi.,Other,Negative,Low
+My ticket machine was not working on the bus near Hinjawadi.,Ticketing Issue,Neutral,Low
+There was spilled liquid on the bus floor near Katraj.,Cleanliness,Negative,Low
+The bus from Swargate had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+Passengers were packed tightly on the bus near Pune Station.,Overcrowding,Negative,Medium
+The bus and seats were clean during my journey from Hadapsar. Please take action.,Cleanliness,Negative,Low
+The information board at Nigdi is confusing and needs an update.,Other,Positive,Low
+A passenger was harassed on the bus near Hinjawadi; please investigate urgently.,Safety Issue,Neutral,Medium
+The bus and seats were clean during my journey from Aundh.,Cleanliness,Negative,Low
+My bus was full at Kharadi and several passengers could not board.,Overcrowding,Negative,Medium
+Passengers were packed tightly on the bus near Baner.,Overcrowding,Negative,Medium
+The driver followed safety rules and drove carefully near Aundh.,Safety Issue,Negative,High
+The bus from Katraj had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+I saw an accident near Katraj involving a public transport bus.,Safety Issue,Neutral,Medium
+Please train bus staff to communicate politely with passengers.,Staff Behaviour,Negative,Medium
+I waited for 30 minutes for the bus near Camp; the service is frustrating.,Bus Delay,Negative,Medium
+Please improve cleaning of buses and bus stops around Chinchwad.,Cleanliness,Negative,Low
+The conductor charged the wrong fare for my trip from Bhosari.,Ticketing Issue,Negative,Medium
+All buses on the route near Aundh were suddenly cancelled without notice.,Service Disruption,Neutral,Medium
+The bus from Hadapsar had standing passengers throughout the journey.,Overcrowding,Neutral,Low
+The bus was overcrowded near Nigdi and people could barely stand.,Overcrowding,Negative,Medium
+The bus was full at Khadki and several passengers could not board.,Overcrowding,Neutral,Low
+Please provide timely updates about route changes near Aundh.,Service Disruption,Negative,High
+The waiting area at Pimpri needs regular cleaning.,Cleanliness,Negative,Low
+There was a serious safety risk at the bus stop near Bhosari.,Safety Issue,Neutral,Medium
+Passengers were packed tightly on the bus near Bhosari.,Overcrowding,Negative,Medium
+I appreciate the helpful information provided by staff at Nigdi.,Other,Positive,Low
+My bus ticket was issued with an incorrect destination from Kothrud.,Ticketing Issue,Negative,Medium
+Thank you to the bus staff for helping me with directions at Kharadi.,Other,Positive,Low
+Please improve the bus schedule and display accurate arrival times at Shivajinagar.,Bus Delay,Negative,Medium
+The waiting area at Hadapsar needs regular cleaning.,Cleanliness,Negative,Low
+Dust and waste were visible inside the bus at Shivajinagar.,Cleanliness,Neutral,Low
+I appreciate the helpful information provided by staff at Pune Station.,Other,Negative,Low
+Staff at Warje behaved disrespectfully when I asked for help.,Staff Behaviour,Negative,Medium
+A staff member ignored passengers asking about the route at Hadapsar.,Staff Behaviour,Negative,Low
+I could not get a ticket because the ticketing device stopped working. Please take action.,Ticketing Issue,Neutral,Low
+The conductor gave me the correct ticket and explained the fare at Katraj.,Ticketing Issue,Neutral,Low
+Bus service stopped for a long time near Khadki and passengers received no update.,Service Disruption,Neutral,Medium
+The bus from Camp had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+Please consider adding a timetable display at Katraj.,Other,Negative,Low
+There was spilled liquid on the bus floor near Nigdi.,Cleanliness,Neutral,Low
+The ticket machine was not working on the bus near Kothrud.,Ticketing Issue,Neutral,Low
+The route was diverted near Pune Station but no announcement was made.,Service Disruption,Neutral,Medium
+The seats were stained and the bus smelled bad on the route from Pimpri.,Cleanliness,Negative,Low
+The bus was dirty and had litter on the floor near Camp.,Cleanliness,Neutral,Low
+My conductor shouted at an elderly passenger near Katraj.,Staff Behaviour,Negative,Medium
+The bus was overcrowded near Deccan and people could barely stand.,Overcrowding,Negative,Medium
+"The bus did not arrive on time at Khadki, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+My bus was 35 minutes late at Yerawada and nobody informed passengers.,Bus Delay,Negative,Medium
+The driver was driving unsafely near Hadapsar and nearly caused an accident. Please take action.,Safety Issue,Negative,High
+The seats were stained and the bus smelled bad on the route from Aundh.,Cleanliness,Neutral,Low
+Please provide more buses during peak hours around Deccan.,Overcrowding,Negative,Medium
+Please train bus staff to communicate politely with passengers. Please take action.,Staff Behaviour,Negative,Low
+The bus ticket was issued with an incorrect destination from Pune Station.,Ticketing Issue,Neutral,Low
+My bus was dirty and had litter on the floor near Hinjawadi.,Cleanliness,Negative,Low
+Bus service stopped for a long time near Aundh and passengers received no update.,Service Disruption,Negative,High
+Thank you to the bus staff for helping me with directions at Kothrud.,Other,Neutral,Low
+Staff at Kondhwa behaved disrespectfully when I asked for help. Please take action.,Staff Behaviour,Negative,Medium
+A staff member ignored passengers asking about the route at Kothrud.,Staff Behaviour,Negative,Low
+My bus was full at Chinchwad and several passengers could not board.,Overcrowding,Negative,Medium
+The driver was speeding dangerously near Hadapsar.,Safety Issue,Negative,High
+There is a service interruption on the bus route near Hadapsar.,Service Disruption,Neutral,Medium
+Please make ticket prices and digital payment instructions clearer at Pune Station.,Ticketing Issue,Negative,Medium
+My bus ticket was issued with an incorrect destination from Chinchwad.,Ticketing Issue,Negative,Medium
+My information board at Kondhwa is confusing and needs an update.,Other,Positive,Low
+The information board at Hinjawadi is confusing and needs an update.,Other,Neutral,Low
+Passengers were packed tightly on the bus near Katraj.,Overcrowding,Negative,Medium
+The conductor shouted at an elderly passenger near Swargate.,Staff Behaviour,Negative,Medium
+Please consider adding a timetable display at Yerawada.,Other,Neutral,Low
+The driver followed safety rules and drove carefully near Pimpri.,Safety Issue,Neutral,Medium
+The information board at Akurdi is confusing and needs an update.,Other,Positive,Low
+Please improve the bus schedule and display accurate arrival times at Camp.,Bus Delay,Negative,Medium
+Please consider adding a timetable display at Baner.,Other,Negative,Low
+The bus was full at Pimpri and several passengers could not board.,Overcrowding,Neutral,Low
+Please provide timely updates about route changes near Pune Station.,Service Disruption,Neutral,Medium
+I want to report unprofessional behaviour by bus staff near Chinchwad.,Staff Behaviour,Negative,Medium
+The bus was full at Kondhwa and several passengers could not board.,Overcrowding,Negative,Medium
+Please provide better seating and shade at the bus stop near Chinchwad.,Other,Negative,Low
+The conductor shouted at an elderly passenger near Swargate.,Staff Behaviour,Negative,Medium
+The route information was not clear for passengers at Camp.,Other,Positive,Low
+I have a general suggestion to improve passenger information at Pimpri.,Other,Positive,Low
+The bus timing information at Wakad is not updated and creates confusion.,Bus Delay,Negative,Medium
+A major route disruption near Warje left many passengers stranded.,Service Disruption,Negative,Medium
+Please improve the bus schedule and display accurate arrival times at Wakad.,Bus Delay,Negative,Medium
+There was heavy crowding at the Camp bus stop this morning.,Overcrowding,Neutral,Low
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Low
+My digital ticket payment failed but money was deducted near Shivajinagar.,Ticketing Issue,Negative,Low
+I have a general suggestion to improve passenger information at Hadapsar.,Other,Negative,Low
+A major route disruption near Khadki left many passengers stranded.,Service Disruption,Negative,Medium
+Bus arrival at Wakad was delayed by 35 minutes today.,Bus Delay,Negative,Medium
+Please improve cleaning of buses and bus stops around Katraj.,Cleanliness,Negative,Low
+I appreciate the helpful information provided by staff at Nigdi.,Other,Negative,Low
+The bus ticket was issued with an incorrect destination from Warje.,Ticketing Issue,Negative,Low
+Bus arrival at Camp was delayed by 20 minutes today.,Bus Delay,Negative,Medium
+There was heavy crowding at the Bhosari bus stop this morning.,Overcrowding,Negative,Medium
+The bus was 40 minutes late at Hinjawadi and nobody informed passengers.,Bus Delay,Neutral,Low
+The route information was not clear for passengers at Akurdi.,Other,Neutral,Low
+The conductor shouted at an elderly passenger near Nigdi.,Staff Behaviour,Neutral,Low
+The ticket machine was not working on the bus near Shivajinagar.,Ticketing Issue,Negative,Low
+The conductor spoke rudely to passengers near Chinchwad.,Staff Behaviour,Neutral,Low
+Please train bus staff to communicate politely with passengers.,Staff Behaviour,Negative,Medium
+There is a service interruption on the bus route near Kharadi.,Service Disruption,Negative,High
+Please provide better seating and shade at the bus stop near Baner.,Other,Neutral,Low
+My ticket machine was not working on the bus near Chinchwad.,Ticketing Issue,Negative,Low
+The driver followed safety rules and drove carefully near Nigdi.,Safety Issue,Negative,High
+Please provide timely updates about route changes near Bhosari.,Service Disruption,Negative,High
+The conductor spoke rudely to passengers near Baner.,Staff Behaviour,Neutral,Low
+Please provide better seating and shade at the bus stop near Camp.,Other,Negative,Low
+I appreciate the helpful information provided by staff at Hinjawadi.,Other,Neutral,Low
+A staff member ignored passengers asking about the route at Hinjawadi.,Staff Behaviour,Neutral,Low
+Crowding at Wakad made it difficult for elderly passengers to board.,Overcrowding,Neutral,Low
+The information board at Khadki is confusing and needs an update.,Other,Positive,Low
+The bus from Bhosari had standing passengers throughout the journey.,Overcrowding,Neutral,Low
+The bus stop at Katraj was full of garbage and not cleaned.,Cleanliness,Negative,Low
+The bus was dirty and had litter on the floor near Camp.,Cleanliness,Negative,Low
+The bus from Wakad had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+There is a service interruption on the bus route near Kothrud.,Service Disruption,Neutral,Medium
+The bus stop at Pune Station was full of garbage and not cleaned.,Cleanliness,Neutral,Low
+Please provide timely updates about route changes near Khadki.,Service Disruption,Negative,Medium
+The route information was not clear for passengers at Khadki.,Other,Positive,Low
+I saw an accident near Katraj involving a public transport bus.,Safety Issue,Negative,High
+The driver followed safety rules and drove carefully near Chinchwad.,Safety Issue,Negative,High
+The information board at Deccan is confusing and needs an update.,Other,Neutral,Low
+Passengers have been waiting at Deccan because the bus is running late.,Bus Delay,Negative,Medium
+Several scheduled buses were cancelled from Kharadi this morning.,Service Disruption,Neutral,Medium
+The bus was full at Katraj and several passengers could not board.,Overcrowding,Neutral,Low
+Please improve the bus schedule and display accurate arrival times at Khadki.,Bus Delay,Neutral,Low
+The information board at Katraj is confusing and needs an update.,Other,Positive,Low
+"The bus did not arrive on time at Nigdi, causing passengers to miss appointments.",Bus Delay,Neutral,Low
+I saw an accident near Katraj involving a public transport bus.,Safety Issue,Neutral,Medium
+The bus from Kharadi had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+Thank you to the bus staff for helping me with directions at Bhosari.,Other,Negative,Low
+The route was diverted near Shivajinagar but no announcement was made.,Service Disruption,Negative,Medium
+My digital ticket payment failed but money was deducted near Shivajinagar.,Ticketing Issue,Negative,Medium
+A passenger was harassed on the bus near Camp; please investigate urgently.,Safety Issue,Negative,High
+There was spilled liquid on the bus floor near Camp.,Cleanliness,Neutral,Low
+The bus ticket was issued with an incorrect destination from Kothrud.,Ticketing Issue,Negative,Medium
+A major route disruption near Nigdi left many passengers stranded.,Service Disruption,Negative,Medium
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Medium
+Bus service resumed after a short disruption near Yerawada.,Service Disruption,Negative,Medium
+I have a general suggestion to improve passenger information at Akurdi.,Other,Negative,Low
+The bus and seats were clean during my journey from Pimpri.,Cleanliness,Negative,Low
+Dust and waste were visible inside the bus at Warje.,Cleanliness,Neutral,Low
+The bus was 35 minutes late at Chinchwad and nobody informed passengers. Please take action.,Bus Delay,Negative,Medium
+Passengers have been waiting at Warje because the bus is running late.,Bus Delay,Negative,Medium
+The bus brakes seemed to fail and passengers were frightened near Deccan.,Safety Issue,Neutral,Medium
+There were too many passengers on the bus from Kharadi; it felt unsafe. Please take action.,Overcrowding,Neutral,Low
+I have a general suggestion to improve passenger information at Kothrud.,Other,Positive,Low
+Please check the broken emergency exit on the bus at Wakad.,Safety Issue,Negative,High
+The ticket machine was not working on the bus near Shivajinagar.,Ticketing Issue,Neutral,Low
+A major route disruption near Pune Station left many passengers stranded.,Service Disruption,Neutral,Medium
+The route information was not clear for passengers at Kharadi.,Other,Negative,Low
+The route information was not clear for passengers at Chinchwad.,Other,Positive,Low
+My information board at Shivajinagar is confusing and needs an update.,Other,Neutral,Low
+I want to report unprofessional behaviour by bus staff near Deccan.,Staff Behaviour,Negative,Medium
+Please add a clear route map at the bus stop near Hadapsar.,Other,Negative,Low
+The conductor charged the wrong fare for my trip from Hinjawadi.,Ticketing Issue,Negative,Medium
+There was heavy crowding at the Yerawada bus stop this morning.,Overcrowding,Negative,Medium
+Thank you to the bus staff for helping me with directions at Hadapsar.,Other,Negative,Low
+Bus service resumed after a short disruption near Hinjawadi.,Service Disruption,Negative,High
+"The bus did not arrive on time at Pune Station, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+The driver and conductor were helpful and polite at Bhosari.,Staff Behaviour,Negative,Low
+My bus ticket was issued with an incorrect destination from Pune Station.,Ticketing Issue,Neutral,Low
+Please make ticket prices and digital payment instructions clearer at Hinjawadi.,Ticketing Issue,Negative,Low
+The ticket machine was not working on the bus near Pune Station.,Ticketing Issue,Negative,Medium
+Bus service resumed after a short disruption near Nigdi.,Service Disruption,Negative,High
+I have a general suggestion to improve passenger information at Camp.,Other,Neutral,Low
+The route was diverted near Katraj but no announcement was made.,Service Disruption,Negative,High
+A staff member ignored passengers asking about the route at Aundh.,Staff Behaviour,Negative,Low
+The conductor charged the wrong fare for my trip from Katraj. Please take action.,Ticketing Issue,Neutral,Low
+Please improve cleaning of buses and bus stops around Akurdi.,Cleanliness,Neutral,Low
+Several scheduled buses were cancelled from Kondhwa this morning.,Service Disruption,Negative,High
+Bus arrival at Shivajinagar was delayed by 50 minutes today.,Bus Delay,Negative,Medium
+Please provide timely updates about route changes near Pune Station.,Service Disruption,Negative,Medium
+Please provide more buses during peak hours around Baner.,Overcrowding,Negative,Medium
+The bus stop at Pune Station was full of garbage and not cleaned.,Cleanliness,Neutral,Low
+My conductor charged the wrong fare for my trip from Hadapsar.,Ticketing Issue,Negative,Medium
+I saw an accident near Kondhwa involving a public transport bus.,Safety Issue,Negative,High
+The conductor charged the wrong fare for my trip from Khadki.,Ticketing Issue,Negative,Medium
+The bus stop at Khadki was full of garbage and not cleaned.,Cleanliness,Negative,Low
+Bus service resumed after a short disruption near Nigdi.,Service Disruption,Negative,Medium
+The conductor spoke rudely to passengers near Pimpri.,Staff Behaviour,Negative,Low
+The driver was speeding dangerously near Camp.,Safety Issue,Neutral,Medium
+I appreciate the helpful information provided by staff at Akurdi.,Other,Negative,Low
+The bus ticket was issued with an incorrect destination from Kothrud.,Ticketing Issue,Negative,Medium
+Thank you to the bus staff for helping me with directions at Swargate.,Other,Neutral,Low
+I saw an accident near Warje involving a public transport bus.,Safety Issue,Negative,High
+The driver was driving unsafely near Hinjawadi and nearly caused an accident.,Safety Issue,Negative,High
+The driver was impolite and refused to answer a question at Camp.,Staff Behaviour,Neutral,Low
+The driver and conductor were helpful and polite at Katraj.,Staff Behaviour,Neutral,Low
+The driver and conductor were helpful and polite at Pimpri.,Staff Behaviour,Negative,Low
+I waited for 35 minutes for the bus near Nigdi; the service is frustrating.,Bus Delay,Negative,Medium
+The bus brakes seemed to fail and passengers were frightened near Swargate.,Safety Issue,Negative,High
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Low
+I appreciate the helpful information provided by staff at Hinjawadi. Please take action.,Other,Neutral,Low
+The driver was impolite and refused to answer a question at Kothrud.,Staff Behaviour,Negative,Medium
+I waited for 40 minutes for the bus near Camp; the service is frustrating.,Bus Delay,Neutral,Low
+The bus was dirty and had litter on the floor near Wakad. Please take action.,Cleanliness,Negative,Low
+The bus brakes seemed to fail and passengers were frightened near Bhosari.,Safety Issue,Neutral,Medium
+My driver was speeding dangerously near Kondhwa.,Safety Issue,Neutral,Medium
+"The bus did not arrive on time at Pune Station, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+I want to report unprofessional behaviour by bus staff near Hinjawadi.,Staff Behaviour,Negative,Medium
+Please provide more buses during peak hours around Pune Station.,Overcrowding,Neutral,Low
+My conductor shouted at an elderly passenger near Chinchwad.,Staff Behaviour,Neutral,Low
+I saw an accident near Kothrud involving a public transport bus.,Safety Issue,Neutral,Medium
+There were too many passengers on the bus from Akurdi; it felt unsafe.,Overcrowding,Negative,Medium
+There was a serious safety risk at the bus stop near Wakad.,Safety Issue,Neutral,Medium
+I waited for 30 minutes for the bus near Swargate; the service is frustrating.,Bus Delay,Negative,Medium
+Please make ticket prices and digital payment instructions clearer at Warje.,Ticketing Issue,Negative,Medium
+Please improve cleaning of buses and bus stops around Kothrud.,Cleanliness,Negative,Low
+Bus arrival at Deccan was delayed by 35 minutes today.,Bus Delay,Neutral,Low
+The seats were stained and the bus smelled bad on the route from Baner.,Cleanliness,Neutral,Low
+The seats were stained and the bus smelled bad on the route from Khadki.,Cleanliness,Negative,Low
+Please provide timely updates about route changes near Bhosari.,Service Disruption,Negative,High
+The driver was speeding dangerously near Wakad.,Safety Issue,Negative,High
+Passengers have been waiting at Yerawada because the bus is running late.,Bus Delay,Neutral,Low
+The waiting area at Kondhwa needs regular cleaning.,Cleanliness,Neutral,Low
+I have a general suggestion to improve passenger information at Akurdi.,Other,Neutral,Low
+Please add a clear route map at the bus stop near Kharadi.,Other,Negative,Low
+The seats were stained and the bus smelled bad on the route from Chinchwad.,Cleanliness,Negative,Low
+The bus was full at Yerawada and several passengers could not board.,Overcrowding,Negative,Medium
+The driver followed safety rules and drove carefully near Shivajinagar. Please take action.,Safety Issue,Neutral,Medium
+The conductor shouted at an elderly passenger near Hinjawadi. Please take action.,Staff Behaviour,Neutral,Low
+I waited for 35 minutes for the bus near Wakad; the service is frustrating.,Bus Delay,Negative,Medium
+There was spilled liquid on the bus floor near Chinchwad.,Cleanliness,Negative,Low
+The driver followed safety rules and drove carefully near Kothrud.,Safety Issue,Negative,High
+The route was diverted near Shivajinagar but no announcement was made. Please take action.,Service Disruption,Neutral,Medium
+Please provide more buses during peak hours around Warje. Please take action.,Overcrowding,Negative,Medium
+Passengers were packed tightly on the bus near Nigdi.,Overcrowding,Negative,Medium
+Staff at Nigdi behaved disrespectfully when I asked for help.,Staff Behaviour,Neutral,Low
+There is a service interruption on the bus route near Katraj. Please take action.,Service Disruption,Neutral,Medium
+The route was diverted near Akurdi but no announcement was made.,Service Disruption,Negative,Medium
+"The bus did not arrive on time at Chinchwad, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+The waiting area at Pimpri needs regular cleaning.,Cleanliness,Negative,Low
+Please train bus staff to communicate politely with passengers. Please take action.,Staff Behaviour,Negative,Low
+The route information was not clear for passengers at Kharadi.,Other,Negative,Low
+The conductor shouted at an elderly passenger near Kondhwa.,Staff Behaviour,Negative,Medium
+Please improve the bus schedule and display accurate arrival times at Kothrud.,Bus Delay,Negative,Medium
+There was heavy crowding at the Baner bus stop this morning.,Overcrowding,Neutral,Low
+The route was diverted near Nigdi but no announcement was made.,Service Disruption,Negative,Medium
+The driver followed safety rules and drove carefully near Wakad.,Safety Issue,Negative,High
+Please provide timely updates about route changes near Warje.,Service Disruption,Negative,Medium
+Please provide timely updates about route changes near Swargate.,Service Disruption,Negative,High
+My route information was not clear for passengers at Bhosari.,Other,Negative,Low
+The driver and conductor were helpful and polite at Katraj.,Staff Behaviour,Negative,Low
+Please consider adding a timetable display at Khadki.,Other,Positive,Low
+Please provide more buses during peak hours around Kharadi. Please take action.,Overcrowding,Negative,Medium
+The driver and conductor were helpful and polite at Katraj.,Staff Behaviour,Negative,Low
+The bus was 10 minutes late at Nigdi and nobody informed passengers.,Bus Delay,Neutral,Low
+Please provide more buses during peak hours around Baner.,Overcrowding,Neutral,Low
+I want to report unprofessional behaviour by bus staff near Chinchwad.,Staff Behaviour,Neutral,Low
+The ticket machine was not working on the bus near Hinjawadi. Please take action.,Ticketing Issue,Negative,Low
+Please provide timely updates about route changes near Pimpri.,Service Disruption,Neutral,Medium
+The information board at Bhosari is confusing and needs an update. Please take action.,Other,Neutral,Low
+The bus stop at Khadki was full of garbage and not cleaned.,Cleanliness,Negative,Low
+Please train bus staff to communicate politely with passengers.,Staff Behaviour,Negative,Medium
+My digital ticket payment failed but money was deducted near Yerawada. Please take action.,Ticketing Issue,Negative,Low
+The bus and seats were clean during my journey from Bhosari.,Cleanliness,Negative,Low
+The bus ticket was issued with an incorrect destination from Pune Station.,Ticketing Issue,Neutral,Low
+The conductor shouted at an elderly passenger near Akurdi.,Staff Behaviour,Negative,Medium
+Thank you to the bus staff for helping me with directions at Aundh.,Other,Neutral,Low
+Please improve the bus schedule and display accurate arrival times at Kharadi.,Bus Delay,Negative,Medium
+My waiting area at Chinchwad needs regular cleaning.,Cleanliness,Neutral,Low
+There was a serious safety risk at the bus stop near Aundh.,Safety Issue,Neutral,Medium
+The bus was dirty and had litter on the floor near Camp.,Cleanliness,Neutral,Low
+The bus was overcrowded near Yerawada and people could barely stand.,Overcrowding,Negative,Medium
+Several scheduled buses were cancelled from Pimpri this morning.,Service Disruption,Negative,High
+Please provide timely updates about route changes near Camp. Please take action.,Service Disruption,Negative,Medium
+Bus service resumed after a short disruption near Khadki.,Service Disruption,Negative,Medium
+Please consider adding a timetable display at Yerawada.,Other,Neutral,Low
+The bus was 45 minutes late at Akurdi and nobody informed passengers.,Bus Delay,Neutral,Low
+"The bus did not arrive on time at Akurdi, causing passengers to miss appointments.",Bus Delay,Neutral,Low
+The bus ticket was issued with an incorrect destination from Khadki.,Ticketing Issue,Negative,Low
+The information board at Deccan is confusing and needs an update. Please take action.,Other,Positive,Low
+The ticket machine was not working on the bus near Akurdi.,Ticketing Issue,Negative,Low
+Dust and waste were visible inside the bus at Yerawada.,Cleanliness,Negative,Low
+Please add a clear route map at the bus stop near Hadapsar. Please take action.,Other,Neutral,Low
+Please provide better seating and shade at the bus stop near Akurdi.,Other,Neutral,Low
+Bus arrival at Aundh was delayed by 45 minutes today.,Bus Delay,Neutral,Low
+Crowding at Bhosari made it difficult for elderly passengers to board.,Overcrowding,Negative,Medium
+The conductor gave me the correct ticket and explained the fare at Pune Station.,Ticketing Issue,Negative,Medium
+The driver followed safety rules and drove carefully near Hadapsar.,Safety Issue,Negative,High
+Please train bus staff to communicate politely with passengers.,Staff Behaviour,Negative,Low
+Crowding at Hinjawadi made it difficult for elderly passengers to board. Please take action.,Overcrowding,Negative,Medium
+The bus was full at Baner and several passengers could not board.,Overcrowding,Negative,Medium
+My driver was impolite and refused to answer a question at Kharadi.,Staff Behaviour,Negative,Low
+Please add a clear route map at the bus stop near Kharadi.,Other,Positive,Low
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Low
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Low
+There is a service interruption on the bus route near Pimpri.,Service Disruption,Negative,Medium
+All buses on the route near Hadapsar were suddenly cancelled without notice. Please take action.,Service Disruption,Negative,Medium
+The ticket machine was not working on the bus near Kondhwa.,Ticketing Issue,Neutral,Low
+The ticket counter at Pimpri was closed during operating hours.,Ticketing Issue,Neutral,Low
+A major route disruption near Pune Station left many passengers stranded.,Service Disruption,Negative,High
+Crowding at Bhosari made it difficult for elderly passengers to board.,Overcrowding,Neutral,Low
+The bus reached Chinchwad later than the timetable showed.,Bus Delay,Negative,Medium
+The conductor gave me the correct ticket and explained the fare at Akurdi.,Ticketing Issue,Negative,Low
+I waited for 40 minutes for the bus near Chinchwad; the service is frustrating.,Bus Delay,Negative,Medium
+My bus was full at Nigdi and several passengers could not board.,Overcrowding,Negative,Medium
+Please train bus staff to communicate politely with passengers.,Staff Behaviour,Neutral,Low
+The bus was 15 minutes late at Yerawada and nobody informed passengers.,Bus Delay,Negative,Medium
+There was heavy crowding at the Deccan bus stop this morning.,Overcrowding,Negative,Medium
+The bus ticket was issued with an incorrect destination from Pune Station.,Ticketing Issue,Negative,Low
+The driver followed safety rules and drove carefully near Bhosari. Please take action.,Safety Issue,Negative,High
+"The bus did not arrive on time at Pimpri, causing passengers to miss appointments. Please take action.",Bus Delay,Negative,Medium
+I waited for 20 minutes for the bus near Yerawada; the service is frustrating. Please take action.,Bus Delay,Negative,Medium
+The driver followed safety rules and drove carefully near Hinjawadi.,Safety Issue,Negative,High
+A major route disruption near Kothrud left many passengers stranded. Please take action.,Service Disruption,Neutral,Medium
+Thank you to the bus staff for helping me with directions at Kharadi.,Other,Positive,Low
+The bus stop at Nigdi was full of garbage and not cleaned.,Cleanliness,Negative,Low
+Several scheduled buses were cancelled from Katraj this morning.,Service Disruption,Neutral,Medium
+Please check the broken emergency exit on the bus at Bhosari.,Safety Issue,Neutral,Medium
+The route was diverted near Kondhwa but no announcement was made.,Service Disruption,Negative,Medium
+There were too many passengers on the bus from Camp; it felt unsafe.,Overcrowding,Neutral,Low
+Please check the broken emergency exit on the bus at Aundh.,Safety Issue,Neutral,Medium
+Please provide more buses during peak hours around Deccan.,Overcrowding,Negative,Medium
+There was a serious safety risk at the bus stop near Nigdi.,Safety Issue,Neutral,Medium
+A major route disruption near Hadapsar left many passengers stranded. Please take action.,Service Disruption,Negative,High
+The bus reached Bhosari later than the timetable showed.,Bus Delay,Negative,Medium
+The bus was overcrowded near Aundh and people could barely stand.,Overcrowding,Negative,Medium
+Please improve the bus schedule and display accurate arrival times at Hinjawadi.,Bus Delay,Neutral,Low
+My bus ticket was issued with an incorrect destination from Camp.,Ticketing Issue,Neutral,Low
+The bus reached Pimpri later than the timetable showed.,Bus Delay,Negative,Medium
+The driver was impolite and refused to answer a question at Akurdi.,Staff Behaviour,Neutral,Low
+My bus stop at Kondhwa was full of garbage and not cleaned.,Cleanliness,Negative,Low
+There was spilled liquid on the bus floor near Kharadi.,Cleanliness,Negative,Low
+The driver followed safety rules and drove carefully near Camp.,Safety Issue,Negative,High
+The conductor gave me the correct ticket and explained the fare at Warje.,Ticketing Issue,Negative,Medium
+Bus arrival at Pimpri was delayed by 20 minutes today.,Bus Delay,Negative,Medium
+The bus from Katraj had standing passengers throughout the journey.,Overcrowding,Neutral,Low
+The driver and conductor were helpful and polite at Kharadi.,Staff Behaviour,Negative,Low
+I want to report unprofessional behaviour by bus staff near Nigdi.,Staff Behaviour,Neutral,Low
+The bus timing information at Swargate is not updated and creates confusion.,Bus Delay,Neutral,Low
+Please improve cleaning of buses and bus stops around Warje.,Cleanliness,Negative,Low
+The ticket counter at Khadki was closed during operating hours.,Ticketing Issue,Negative,Medium
+A staff member ignored passengers asking about the route at Pune Station.,Staff Behaviour,Negative,Medium
+Bus service resumed after a short disruption near Bhosari.,Service Disruption,Neutral,Medium
+Passengers have been waiting at Hadapsar because the bus is running late.,Bus Delay,Negative,Medium
+The bus was full at Yerawada and several passengers could not board.,Overcrowding,Neutral,Low
+Several scheduled buses were cancelled from Wakad this morning.,Service Disruption,Neutral,Medium
+Please consider adding a timetable display at Bhosari.,Other,Neutral,Low
+I waited for 50 minutes for the bus near Khadki; the service is frustrating.,Bus Delay,Neutral,Low
+Please improve cleaning of buses and bus stops around Akurdi.,Cleanliness,Negative,Low
+Bus service resumed after a short disruption near Shivajinagar.,Service Disruption,Neutral,Medium
+Several scheduled buses were cancelled from Shivajinagar this morning.,Service Disruption,Negative,Medium
+I waited for 25 minutes for the bus near Khadki; the service is frustrating.,Bus Delay,Neutral,Low
+Bus service resumed after a short disruption near Kharadi.,Service Disruption,Negative,High
+My driver and conductor were helpful and polite at Hadapsar.,Staff Behaviour,Negative,Medium
+My digital ticket payment failed but money was deducted near Kharadi. Please take action.,Ticketing Issue,Negative,Medium
+Please train bus staff to communicate politely with passengers.,Staff Behaviour,Neutral,Low
+The conductor charged the wrong fare for my trip from Nigdi.,Ticketing Issue,Negative,Medium
+Please provide more buses during peak hours around Hadapsar.,Overcrowding,Negative,Medium
+The driver was impolite and refused to answer a question at Kharadi.,Staff Behaviour,Neutral,Low
+Please improve cleaning of buses and bus stops around Khadki.,Cleanliness,Negative,Low
+"The bus did not arrive on time at Khadki, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+The bus ticket was issued with an incorrect destination from Khadki.,Ticketing Issue,Neutral,Low
+The driver was impolite and refused to answer a question at Aundh.,Staff Behaviour,Neutral,Low
+The bus ticket was issued with an incorrect destination from Aundh.,Ticketing Issue,Negative,Medium
+My digital ticket payment failed but money was deducted near Yerawada.,Ticketing Issue,Negative,Low
+The bus was overcrowded near Bhosari and people could barely stand.,Overcrowding,Negative,Medium
+Bus arrival at Pimpri was delayed by 15 minutes today.,Bus Delay,Negative,Medium
+The information board at Nigdi is confusing and needs an update.,Other,Negative,Low
+The bus reached Wakad later than the timetable showed.,Bus Delay,Negative,Medium
+My waiting area at Kharadi needs regular cleaning.,Cleanliness,Neutral,Low
+My bus was overcrowded near Hadapsar and people could barely stand.,Overcrowding,Neutral,Low
+There was heavy crowding at the Pimpri bus stop this morning.,Overcrowding,Negative,Medium
+The bus brakes seemed to fail and passengers were frightened near Nigdi.,Safety Issue,Negative,High
+Passengers were packed tightly on the bus near Chinchwad.,Overcrowding,Negative,Medium
+Several scheduled buses were cancelled from Kothrud this morning.,Service Disruption,Negative,High
+The ticket counter at Aundh was closed during operating hours. Please take action.,Ticketing Issue,Negative,Low
+The driver was impolite and refused to answer a question at Katraj.,Staff Behaviour,Negative,Medium
+Please add a clear route map at the bus stop near Hadapsar.,Other,Neutral,Low
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Medium
+The conductor spoke rudely to passengers near Kothrud.,Staff Behaviour,Negative,Medium
+The conductor shouted at an elderly passenger near Shivajinagar.,Staff Behaviour,Neutral,Low
+Please provide timely updates about route changes near Baner. Please take action.,Service Disruption,Negative,Medium
+The bus was full at Wakad and several passengers could not board.,Overcrowding,Negative,Medium
+Please provide more buses during peak hours around Warje.,Overcrowding,Neutral,Low
+The driver was speeding dangerously near Nigdi.,Safety Issue,Neutral,Medium
+My conductor charged the wrong fare for my trip from Chinchwad.,Ticketing Issue,Negative,Low
+My bus was 10 minutes late at Pune Station and nobody informed passengers.,Bus Delay,Negative,Medium
+The seats were stained and the bus smelled bad on the route from Akurdi.,Cleanliness,Negative,Low
+The bus stop at Kothrud was full of garbage and not cleaned.,Cleanliness,Negative,Low
+Bus arrival at Baner was delayed by 20 minutes today.,Bus Delay,Negative,Medium
+Please make ticket prices and digital payment instructions clearer at Kharadi.,Ticketing Issue,Negative,Low
+The driver was driving unsafely near Shivajinagar and nearly caused an accident.,Safety Issue,Negative,High
+Crowding at Khadki made it difficult for elderly passengers to board. Please take action.,Overcrowding,Neutral,Low
+Dust and waste were visible inside the bus at Deccan.,Cleanliness,Neutral,Low
+The bus reached Nigdi later than the timetable showed.,Bus Delay,Negative,Medium
+The bus stop at Deccan was full of garbage and not cleaned.,Cleanliness,Negative,Low
+The route information was not clear for passengers at Baner.,Other,Neutral,Low
+My digital ticket payment failed but money was deducted near Pimpri.,Ticketing Issue,Negative,Low
+Bus service resumed after a short disruption near Katraj.,Service Disruption,Negative,Medium
+The driver was speeding dangerously near Akurdi.,Safety Issue,Neutral,Medium
+The bus ticket was issued with an incorrect destination from Khadki.,Ticketing Issue,Neutral,Low
+Please improve cleaning of buses and bus stops around Kothrud.,Cleanliness,Neutral,Low
+My bus from Baner had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+Bus arrival at Kharadi was delayed by 10 minutes today. Please take action.,Bus Delay,Neutral,Low
+Passengers have been waiting at Khadki because the bus is running late.,Bus Delay,Neutral,Low
+The driver was impolite and refused to answer a question at Kondhwa.,Staff Behaviour,Negative,Medium
+The driver followed safety rules and drove carefully near Aundh.,Safety Issue,Negative,High
+There were too many passengers on the bus from Khadki; it felt unsafe.,Overcrowding,Neutral,Low
+Please add a clear route map at the bus stop near Deccan.,Other,Positive,Low
+Please improve cleaning of buses and bus stops around Kothrud.,Cleanliness,Negative,Low
+A major route disruption near Kothrud left many passengers stranded.,Service Disruption,Neutral,Medium
+There was heavy crowding at the Pimpri bus stop this morning.,Overcrowding,Negative,Medium
+My bus stop at Khadki was full of garbage and not cleaned.,Cleanliness,Negative,Low
+I appreciate the helpful information provided by staff at Nigdi.,Other,Positive,Low
+The bus was 50 minutes late at Khadki and nobody informed passengers.,Bus Delay,Negative,Medium
+The driver and conductor were helpful and polite at Kharadi.,Staff Behaviour,Negative,Low
+My driver was speeding dangerously near Baner.,Safety Issue,Neutral,Medium
+The ticket machine was not working on the bus near Warje.,Ticketing Issue,Negative,Low
+Please consider adding a timetable display at Deccan.,Other,Negative,Low
+"The bus did not arrive on time at Nigdi, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+All buses on the route near Chinchwad were suddenly cancelled without notice. Please take action.,Service Disruption,Negative,High
+Passengers have been waiting at Katraj because the bus is running late.,Bus Delay,Negative,Medium
+A passenger was harassed on the bus near Yerawada; please investigate urgently.,Safety Issue,Negative,High
+Please check the broken emergency exit on the bus at Aundh.,Safety Issue,Neutral,Medium
+The driver was impolite and refused to answer a question at Camp.,Staff Behaviour,Neutral,Low
+The bus was dirty and had litter on the floor near Chinchwad.,Cleanliness,Negative,Low
+The bus from Deccan had standing passengers throughout the journey.,Overcrowding,Neutral,Low
+Passengers have been waiting at Pimpri because the bus is running late.,Bus Delay,Negative,Medium
+The conductor charged the wrong fare for my trip from Baner. Please take action.,Ticketing Issue,Neutral,Low
+The bus was 25 minutes late at Bhosari and nobody informed passengers.,Bus Delay,Negative,Medium
+Crowding at Akurdi made it difficult for elderly passengers to board.,Overcrowding,Neutral,Low
+I want to report unprofessional behaviour by bus staff near Kondhwa.,Staff Behaviour,Negative,Low
+Please provide better seating and shade at the bus stop near Chinchwad.,Other,Neutral,Low
+Please provide timely updates about route changes near Hadapsar.,Service Disruption,Negative,Medium
+There were too many passengers on the bus from Kondhwa; it felt unsafe.,Overcrowding,Negative,Medium
+The bus was dirty and had litter on the floor near Khadki.,Cleanliness,Neutral,Low
+My waiting area at Kothrud needs regular cleaning.,Cleanliness,Negative,Low
+Bus service resumed after a short disruption near Nigdi.,Service Disruption,Negative,High
+The conductor gave me the correct ticket and explained the fare at Kharadi.,Ticketing Issue,Negative,Low
+The bus was overcrowded near Bhosari and people could barely stand.,Overcrowding,Negative,Medium
+The driver followed safety rules and drove carefully near Nigdi.,Safety Issue,Negative,High
+Please provide timely updates about route changes near Yerawada.,Service Disruption,Negative,Medium
+The conductor shouted at an elderly passenger near Akurdi.,Staff Behaviour,Negative,Low
+Please improve cleaning of buses and bus stops around Camp.,Cleanliness,Neutral,Low
+Staff at Chinchwad behaved disrespectfully when I asked for help.,Staff Behaviour,Negative,Medium
+Please provide more buses during peak hours around Kothrud.,Overcrowding,Neutral,Low
+The bus ticket was issued with an incorrect destination from Khadki.,Ticketing Issue,Neutral,Low
+Please improve the bus schedule and display accurate arrival times at Swargate.,Bus Delay,Neutral,Low
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Neutral,Low
+All buses on the route near Baner were suddenly cancelled without notice.,Service Disruption,Negative,High
+Please consider adding a timetable display at Bhosari.,Other,Neutral,Low
+Please train bus staff to communicate politely with passengers.,Staff Behaviour,Negative,Low
+The driver and conductor were helpful and polite at Khadki.,Staff Behaviour,Neutral,Low
+The driver and conductor were helpful and polite at Kondhwa.,Staff Behaviour,Negative,Medium
+Please make ticket prices and digital payment instructions clearer at Akurdi.,Ticketing Issue,Neutral,Low
+I waited for 40 minutes for the bus near Khadki; the service is frustrating.,Bus Delay,Negative,Medium
+Please make ticket prices and digital payment instructions clearer at Kharadi.,Ticketing Issue,Neutral,Low
+Several scheduled buses were cancelled from Bhosari this morning.,Service Disruption,Negative,Medium
+My bus stop at Kothrud was full of garbage and not cleaned.,Cleanliness,Negative,Low
+The bus from Pimpri had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+All buses on the route near Wakad were suddenly cancelled without notice.,Service Disruption,Neutral,Medium
+I waited for 15 minutes for the bus near Kondhwa; the service is frustrating.,Bus Delay,Neutral,Low
+The bus brakes seemed to fail and passengers were frightened near Shivajinagar.,Safety Issue,Negative,High
+Dust and waste were visible inside the bus at Chinchwad.,Cleanliness,Neutral,Low
+Please provide timely updates about route changes near Katraj.,Service Disruption,Negative,Medium
+Please make ticket prices and digital payment instructions clearer at Shivajinagar.,Ticketing Issue,Negative,Medium
+The bus and seats were clean during my journey from Bhosari.,Cleanliness,Negative,Low
+I waited for 50 minutes for the bus near Shivajinagar; the service is frustrating.,Bus Delay,Negative,Medium
+The conductor shouted at an elderly passenger near Aundh.,Staff Behaviour,Negative,Medium
+My conductor spoke rudely to passengers near Yerawada.,Staff Behaviour,Neutral,Low
+My driver followed safety rules and drove carefully near Akurdi.,Safety Issue,Negative,High
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Medium
+The information board at Hadapsar is confusing and needs an update.,Other,Negative,Low
+Please train bus staff to communicate politely with passengers.,Staff Behaviour,Negative,Low
+The bus was overcrowded near Aundh and people could barely stand.,Overcrowding,Neutral,Low
+I could not get a ticket because the ticketing device stopped working.,Ticketing Issue,Negative,Medium
+The driver followed safety rules and drove carefully near Shivajinagar.,Safety Issue,Negative,High
+Please provide timely updates about route changes near Kharadi.,Service Disruption,Negative,Medium
+The bus brakes seemed to fail and passengers were frightened near Akurdi.,Safety Issue,Negative,High
+Please provide better seating and shade at the bus stop near Pune Station. Please take action.,Other,Positive,Low
+I waited for 15 minutes for the bus near Shivajinagar; the service is frustrating.,Bus Delay,Negative,Medium
+There was heavy crowding at the Baner bus stop this morning.,Overcrowding,Negative,Medium
+Passengers were packed tightly on the bus near Chinchwad.,Overcrowding,Negative,Medium
+My digital ticket payment failed but money was deducted near Yerawada.,Ticketing Issue,Neutral,Low
+The conductor shouted at an elderly passenger near Camp.,Staff Behaviour,Neutral,Low
+The bus ticket was issued with an incorrect destination from Yerawada.,Ticketing Issue,Negative,Medium
+"The bus did not arrive on time at Kothrud, causing passengers to miss appointments.",Bus Delay,Neutral,Low
+Please consider adding a timetable display at Bhosari.,Other,Positive,Low
+Bus service resumed after a short disruption near Katraj.,Service Disruption,Negative,High
+Please improve the bus schedule and display accurate arrival times at Aundh.,Bus Delay,Negative,Medium
+I waited for 50 minutes for the bus near Khadki; the service is frustrating.,Bus Delay,Neutral,Low
+Thank you to the bus staff for helping me with directions at Camp.,Other,Positive,Low
+The route information was not clear for passengers at Warje.,Other,Positive,Low
+There was heavy crowding at the Swargate bus stop this morning.,Overcrowding,Negative,Medium
+Please consider adding a timetable display at Warje.,Other,Positive,Low
+The driver was driving unsafely near Wakad and nearly caused an accident.,Safety Issue,Negative,High
+The bus brakes seemed to fail and passengers were frightened near Camp.,Safety Issue,Neutral,Medium
+Please improve cleaning of buses and bus stops around Yerawada.,Cleanliness,Negative,Low
+Please improve the bus schedule and display accurate arrival times at Yerawada.,Bus Delay,Negative,Medium
+Several scheduled buses were cancelled from Pimpri this morning.,Service Disruption,Neutral,Medium
+The conductor shouted at an elderly passenger near Akurdi. Please take action.,Staff Behaviour,Neutral,Low
+The bus was overcrowded near Shivajinagar and people could barely stand.,Overcrowding,Negative,Medium
+My digital ticket payment failed but money was deducted near Warje.,Ticketing Issue,Negative,Low
+Please consider adding a timetable display at Hinjawadi.,Other,Positive,Low
+The waiting area at Deccan needs regular cleaning.,Cleanliness,Neutral,Low
+Thank you to the bus staff for helping me with directions at Hadapsar.,Other,Neutral,Low
+Please provide better seating and shade at the bus stop near Wakad.,Other,Negative,Low
+A staff member ignored passengers asking about the route at Hadapsar.,Staff Behaviour,Negative,Low
+The information board at Nigdi is confusing and needs an update.,Other,Negative,Low
+My conductor charged the wrong fare for my trip from Aundh.,Ticketing Issue,Negative,Low
+I have a general suggestion to improve passenger information at Swargate. Please take action.,Other,Negative,Low
+I waited for 50 minutes for the bus near Kharadi; the service is frustrating.,Bus Delay,Negative,Medium
+The driver was speeding dangerously near Deccan.,Safety Issue,Neutral,Medium
+The bus stop at Kharadi was full of garbage and not cleaned.,Cleanliness,Negative,Low
+Please consider adding a timetable display at Baner.,Other,Positive,Low
+The driver was impolite and refused to answer a question at Khadki.,Staff Behaviour,Negative,Low
+The bus reached Pune Station later than the timetable showed.,Bus Delay,Neutral,Low
+Dust and waste were visible inside the bus at Pune Station.,Cleanliness,Negative,Low
+I want to report unprofessional behaviour by bus staff near Kharadi.,Staff Behaviour,Negative,Low
+The conductor charged the wrong fare for my trip from Shivajinagar.,Ticketing Issue,Negative,Low
+Please provide timely updates about route changes near Camp.,Service Disruption,Negative,Medium
+A staff member ignored passengers asking about the route at Akurdi.,Staff Behaviour,Negative,Medium
+Passengers have been waiting at Camp because the bus is running late.,Bus Delay,Negative,Medium
+There is a service interruption on the bus route near Chinchwad.,Service Disruption,Negative,High
+Bus arrival at Baner was delayed by 20 minutes today.,Bus Delay,Negative,Medium
+Please provide timely updates about route changes near Aundh.,Service Disruption,Negative,High
+The conductor shouted at an elderly passenger near Kharadi.,Staff Behaviour,Negative,Low
+Please provide timely updates about route changes near Akurdi.,Service Disruption,Negative,Medium
+The route was diverted near Baner but no announcement was made.,Service Disruption,Neutral,Medium
+There were too many passengers on the bus from Warje; it felt unsafe.,Overcrowding,Negative,Medium
+The conductor gave me the correct ticket and explained the fare at Yerawada.,Ticketing Issue,Neutral,Low
+There was heavy crowding at the Khadki bus stop this morning.,Overcrowding,Negative,Medium
+The driver was impolite and refused to answer a question at Hinjawadi.,Staff Behaviour,Negative,Medium
+The information board at Kharadi is confusing and needs an update.,Other,Positive,Low
+The route was diverted near Deccan but no announcement was made.,Service Disruption,Neutral,Medium
+Several scheduled buses were cancelled from Kondhwa this morning.,Service Disruption,Negative,High
+There was spilled liquid on the bus floor near Kondhwa.,Cleanliness,Neutral,Low
+My bus was dirty and had litter on the floor near Nigdi.,Cleanliness,Neutral,Low
+My conductor shouted at an elderly passenger near Kharadi.,Staff Behaviour,Negative,Medium
+The bus stop at Kharadi was full of garbage and not cleaned.,Cleanliness,Neutral,Low
+My bus was full at Aundh and several passengers could not board.,Overcrowding,Negative,Medium
+I waited for 40 minutes for the bus near Pune Station; the service is frustrating. Please take action.,Bus Delay,Neutral,Low
+I have a general suggestion to improve passenger information at Yerawada.,Other,Negative,Low
+The bus from Katraj had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+The bus brakes seemed to fail and passengers were frightened near Kothrud. Please take action.,Safety Issue,Negative,High
+Please add a clear route map at the bus stop near Pimpri.,Other,Positive,Low
+The bus was 25 minutes late at Deccan and nobody informed passengers.,Bus Delay,Neutral,Low
+There were too many passengers on the bus from Kothrud; it felt unsafe.,Overcrowding,Negative,Medium
+The route was diverted near Wakad but no announcement was made.,Service Disruption,Neutral,Medium
+The driver followed safety rules and drove carefully near Aundh.,Safety Issue,Negative,High
+Bus service stopped for a long time near Yerawada and passengers received no update.,Service Disruption,Negative,High
+Please check the broken emergency exit on the bus at Warje.,Safety Issue,Negative,High
+Please train bus staff to communicate politely with passengers. Please take action.,Staff Behaviour,Negative,Medium
+Passengers have been waiting at Wakad because the bus is running late.,Bus Delay,Neutral,Low
+The bus and seats were clean during my journey from Kondhwa.,Cleanliness,Negative,Low
+Please check the broken emergency exit on the bus at Kothrud.,Safety Issue,Negative,High
+The ticket counter at Chinchwad was closed during operating hours.,Ticketing Issue,Neutral,Low
+I waited for 20 minutes for the bus near Pune Station; the service is frustrating.,Bus Delay,Negative,Medium
+The conductor charged the wrong fare for my trip from Deccan.,Ticketing Issue,Negative,Medium
+The bus was 10 minutes late at Katraj and nobody informed passengers. Please take action.,Bus Delay,Negative,Medium
+My driver was impolite and refused to answer a question at Swargate.,Staff Behaviour,Negative,Medium
+The bus timing information at Hadapsar is not updated and creates confusion.,Bus Delay,Neutral,Low
+Passengers were packed tightly on the bus near Hadapsar.,Overcrowding,Neutral,Low
+Bus service resumed after a short disruption near Yerawada.,Service Disruption,Neutral,Medium
+Please check the broken emergency exit on the bus at Warje.,Safety Issue,Neutral,Medium
+The ticket counter at Yerawada was closed during operating hours.,Ticketing Issue,Negative,Medium
+The driver was speeding dangerously near Warje.,Safety Issue,Negative,High
+Please consider adding a timetable display at Swargate.,Other,Positive,Low
+"The bus did not arrive on time at Bhosari, causing passengers to miss appointments.",Bus Delay,Negative,Medium
+The driver followed safety rules and drove carefully near Akurdi. Please take action.,Safety Issue,Negative,High
+The driver was driving unsafely near Pune Station and nearly caused an accident.,Safety Issue,Negative,High
+A passenger was harassed on the bus near Aundh; please investigate urgently.,Safety Issue,Negative,High
+Bus service stopped for a long time near Deccan and passengers received no update.,Service Disruption,Neutral,Medium
+I appreciate the helpful information provided by staff at Bhosari.,Other,Neutral,Low
+Please check the broken emergency exit on the bus at Deccan.,Safety Issue,Negative,High
+The seats were stained and the bus smelled bad on the route from Chinchwad.,Cleanliness,Negative,Low
+The conductor gave me the correct ticket and explained the fare at Deccan.,Ticketing Issue,Negative,Low
+A staff member ignored passengers asking about the route at Baner.,Staff Behaviour,Negative,Medium
+I have a general suggestion to improve passenger information at Hadapsar.,Other,Positive,Low
+There were too many passengers on the bus from Nigdi; it felt unsafe.,Overcrowding,Negative,Medium
+Bus service stopped for a long time near Aundh and passengers received no update.,Service Disruption,Neutral,Medium
+The bus was full at Yerawada and several passengers could not board.,Overcrowding,Neutral,Low
+The bus was dirty and had litter on the floor near Baner.,Cleanliness,Neutral,Low
+The bus was 25 minutes late at Pune Station and nobody informed passengers.,Bus Delay,Neutral,Low
+A staff member ignored passengers asking about the route at Kondhwa.,Staff Behaviour,Negative,Low
+The bus timing information at Chinchwad is not updated and creates confusion.,Bus Delay,Negative,Medium
+I want to report unprofessional behaviour by bus staff near Pimpri.,Staff Behaviour,Negative,Low
+Please provide more buses during peak hours around Aundh.,Overcrowding,Negative,Medium
+I saw an accident near Shivajinagar involving a public transport bus.,Safety Issue,Neutral,Medium
+The waiting area at Bhosari needs regular cleaning.,Cleanliness,Neutral,Low
+My waiting area at Kothrud needs regular cleaning.,Cleanliness,Negative,Low
+A passenger was harassed on the bus near Katraj; please investigate urgently.,Safety Issue,Negative,High
+My bus was 30 minutes late at Warje and nobody informed passengers.,Bus Delay,Negative,Medium
+The ticket counter at Hadapsar was closed during operating hours.,Ticketing Issue,Negative,Medium
+The driver was speeding dangerously near Camp.,Safety Issue,Negative,High
+The ticket machine was not working on the bus near Hinjawadi.,Ticketing Issue,Negative,Low
+The bus ticket was issued with an incorrect destination from Hadapsar.,Ticketing Issue,Neutral,Low
+There is a service interruption on the bus route near Chinchwad.,Service Disruption,Neutral,Medium
+Please improve cleaning of buses and bus stops around Deccan.,Cleanliness,Negative,Low
+I saw an accident near Akurdi involving a public transport bus.,Safety Issue,Neutral,Medium
+There was a serious safety risk at the bus stop near Shivajinagar.,Safety Issue,Negative,High
+The driver and conductor were helpful and polite at Aundh.,Staff Behaviour,Negative,Low
+The seats were stained and the bus smelled bad on the route from Aundh.,Cleanliness,Negative,Low
+The conductor charged the wrong fare for my trip from Katraj.,Ticketing Issue,Neutral,Low
+The route was diverted near Pune Station but no announcement was made.,Service Disruption,Negative,Medium
+The bus was 50 minutes late at Akurdi and nobody informed passengers.,Bus Delay,Negative,Medium
+Please improve the bus schedule and display accurate arrival times at Bhosari.,Bus Delay,Negative,Medium
+Passengers were packed tightly on the bus near Yerawada.,Overcrowding,Neutral,Low
+The conductor shouted at an elderly passenger near Chinchwad.,Staff Behaviour,Negative,Medium
+I waited for 15 minutes for the bus near Warje; the service is frustrating.,Bus Delay,Neutral,Low
+Passengers have been waiting at Wakad because the bus is running late.,Bus Delay,Negative,Medium
+Dust and waste were visible inside the bus at Aundh.,Cleanliness,Neutral,Low
+"The bus did not arrive on time at Chinchwad, causing passengers to miss appointments.",Bus Delay,Neutral,Low
+I waited for 25 minutes for the bus near Nigdi; the service is frustrating.,Bus Delay,Neutral,Low
+Please provide timely updates about route changes near Nigdi.,Service Disruption,Neutral,Medium
+The ticket machine was not working on the bus near Kharadi.,Ticketing Issue,Neutral,Low
+Bus service stopped for a long time near Bhosari and passengers received no update.,Service Disruption,Negative,Medium
+Passengers were packed tightly on the bus near Kharadi.,Overcrowding,Negative,Medium
+A passenger was harassed on the bus near Shivajinagar; please investigate urgently.,Safety Issue,Neutral,Medium
+There was spilled liquid on the bus floor near Deccan.,Cleanliness,Neutral,Low
+The conductor spoke rudely to passengers near Chinchwad.,Staff Behaviour,Negative,Low
+The ticket machine was not working on the bus near Yerawada. Please take action.,Ticketing Issue,Negative,Low
+The waiting area at Warje needs regular cleaning.,Cleanliness,Negative,Low
+A major route disruption near Khadki left many passengers stranded.,Service Disruption,Negative,Medium
+I have a general suggestion to improve passenger information at Chinchwad.,Other,Neutral,Low
+My bus ticket was issued with an incorrect destination from Nigdi.,Ticketing Issue,Negative,Medium
+The bus from Camp had standing passengers throughout the journey.,Overcrowding,Negative,Medium
+The conductor shouted at an elderly passenger near Katraj.,Staff Behaviour,Neutral,Low
+I want to report unprofessional behaviour by bus staff near Swargate.,Staff Behaviour,Neutral,Low
+I waited for 35 minutes for the bus near Deccan; the service is frustrating.,Bus Delay,Negative,Medium
+I have a general suggestion to improve passenger information at Nigdi.,Other,Negative,Low
+The bus and seats were clean during my journey from Swargate.,Cleanliness,Negative,Low
+The bus timing information at Shivajinagar is not updated and creates confusion.,Bus Delay,Negative,Medium
+The bus stop at Chinchwad was full of garbage and not cleaned.,Cleanliness,Negative,Low
+There was a serious safety risk at the bus stop near Kondhwa.,Safety Issue,Negative,High
+Dust and waste were visible inside the bus at Nigdi. Please take action.,Cleanliness,Neutral,Low
+The bus was full at Chinchwad and several passengers could not board. Please take action.,Overcrowding,Negative,Medium
+The bus reached Kothrud later than the timetable showed.,Bus Delay,Negative,Medium
+The ticket machine was not working on the bus near Kothrud.,Ticketing Issue,Neutral,Low
+The bus stop at Yerawada was full of garbage and not cleaned.,Cleanliness,Negative,Low
+Passengers were packed tightly on the bus near Nigdi.,Overcrowding,Negative,Medium
+All buses on the route near Swargate were suddenly cancelled without notice.,Service Disruption,Neutral,Medium
+I have a general suggestion to improve passenger information at Aundh. Please take action.,Other,Negative,Low
+Bus service resumed after a short disruption near Hinjawadi.,Service Disruption,Negative,Medium
+Bus arrival at Pimpri was delayed by 50 minutes today. Please take action.,Bus Delay,Negative,Medium
+Please check the broken emergency exit on the bus at Akurdi.,Safety Issue,Negative,High
+The driver was impolite and refused to answer a question at Nigdi.,Staff Behaviour,Negative,Low
+The conductor charged the wrong fare for my trip from Kharadi.,Ticketing Issue,Neutral,Low
+There is a service interruption on the bus route near Nigdi.,Service Disruption,Negative,High
+The bus was overcrowded near Warje and people could barely stand.,Overcrowding,Neutral,Low
+My bus stop at Baner was full of garbage and not cleaned.,Cleanliness,Negative,Low
+There was spilled liquid on the bus floor near Kharadi. Please take action.,Cleanliness,Negative,Low
+Dust and waste were visible inside the bus at Kharadi.,Cleanliness,Negative,Low
+The bus was overcrowded near Chinchwad and people could barely stand.,Overcrowding,Negative,Medium
+Staff at Pune Station behaved disrespectfully when I asked for help.,Staff Behaviour,Negative,Low
+Please consider adding a timetable display at Kharadi.,Other,Neutral,Low
+There was a serious safety risk at the bus stop near Hinjawadi.,Safety Issue,Negative,High
+Bus service resumed after a short disruption near Hadapsar.,Service Disruption,Negative,High
+Several scheduled buses were cancelled from Swargate this morning.,Service Disruption,Negative,Medium
+The bus reached Warje later than the timetable showed.,Bus Delay,Negative,Medium
+The driver followed safety rules and drove carefully near Camp.,Safety Issue,Negative,High
+Please consider adding a timetable display at Aundh. Please take action.,Other,Positive,Low
+Please provide timely updates about route changes near Chinchwad.,Service Disruption,Neutral,Medium
+I want to report unprofessional behaviour by bus staff near Pune Station.,Staff Behaviour,Neutral,Low
+The bus was dirty and had litter on the floor near Hinjawadi.,Cleanliness,Neutral,Low
+The driver followed safety rules and drove carefully near Khadki.,Safety Issue,Neutral,Medium
+The bus stop at Hinjawadi was full of garbage and not cleaned.,Cleanliness,Negative,Low
+The bus was dirty and had litter on the floor near Swargate.,Cleanliness,Negative,Low
+The bus and seats were clean during my journey from Yerawada. Please take action.,Cleanliness,Negative,Low
+The driver was impolite and refused to answer a question at Warje.,Staff Behaviour,Negative,Low
+The bus timing information at Kothrud is not updated and creates confusion.,Bus Delay,Neutral,Low
+There was a serious safety risk at the bus stop near Khadki.,Safety Issue,Neutral,Medium
